@@ -22,7 +22,7 @@ const Item = mongoose.model("Item", itemsSchema);
 
 
 const item1 = new Item({
-  name: "computer"
+  name: "chage a bit"
 });
 
 const item2 = new Item({
